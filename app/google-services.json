@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627764459921",
+    "firebase_url": "https://randomcharactergenerator-3ce89.firebaseio.com",
+    "project_id": "randomcharactergenerator-3ce89",
+    "storage_bucket": "randomcharactergenerator-3ce89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627764459921:android:5ae85f41ec31c62bd8c230",
+        "android_client_info": {
+          "package_name": "com.zakgrant.charactercreator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627764459921-14v05kjqkc4e5i311ej9ladtuqup0pp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zakgrant.charactercreator",
+            "certificate_hash": "d0a89b079b6ea3c0bed9404651e94843c6e28004"
+          }
+        },
+        {
+          "client_id": "627764459921-3sabkv2s58bvplkjphv60mlofolkojvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeqV-PqAZQ8KAM4sQGoib2jAh8uwAmGoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627764459921-3sabkv2s58bvplkjphv60mlofolkojvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
